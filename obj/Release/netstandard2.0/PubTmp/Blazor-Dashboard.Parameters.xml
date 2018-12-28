@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Project420" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\ryan\.couch\\Google\ Drive\\Code\\Project420\\Blazor-Dashboard\\obj\\Release\\netstandard2\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
